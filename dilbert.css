@@ -13,6 +13,7 @@
   position: relative;
   overflow: hidden;    /* Required to make ellipsis work */
   text-overflow: clip;
+    margin-right: 50px;
 
   top: 0%;
   
